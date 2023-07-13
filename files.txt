@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is A87E-276C
+
+ Directory of C:\Users\Johan\git_utv\test_git
+
+2023-07-13  20:37    <DIR>          .
+2023-07-13  20:36    <DIR>          ..
+2023-07-13  20:37                 0 files.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  324ÿ378ÿ095ÿ616 bytes free
